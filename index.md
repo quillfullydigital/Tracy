@@ -1,9 +1,5 @@
 <html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- Save for Web Slices (em004_603698ee0cf8a7_84212220_1.psd) -->
 <table id="Table_01" width="600" height="250" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td rowspan="5">
@@ -46,6 +42,5 @@
 				<img src="https://imgur.com/ooJK2Ko.png" width="124" height="56" border="0" alt=""></a></td>
 	</tr>
 </table>
-<!-- End Save for Web Slices -->
 </body>
 </html>
